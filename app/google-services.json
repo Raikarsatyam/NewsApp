@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "529312262306",
+    "project_id": "fir-pushnotification-8da69",
+    "storage_bucket": "fir-pushnotification-8da69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529312262306:android:4dd4cdb64265115e094ffb",
+        "android_client_info": {
+          "package_name": "com.example.newsapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMVSVZxHtcRxIzERCKuuasnAwAmZA2J98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
